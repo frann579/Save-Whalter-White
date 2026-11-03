@@ -40,6 +40,12 @@ h2, h3, h4, h5, h6 {
     font-size: 25px;
 }
 
+#dad-ama {
+    color: #fff54f;
+    font-size: medium;
+    padding: 21px 50px;
+}
+
 .img-banner {
     padding-left: 16%;
 }
