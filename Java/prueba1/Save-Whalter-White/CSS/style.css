@@ -1,0 +1,87 @@
+body {
+    background-image: url(../Imagenes/tile.png);
+    color: #fff54f;
+    font-family: inherit;
+}
+p {
+    color: white;
+    width: 900px;
+    height: 500px;
+    padding-left: 230px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+h1 {
+    font-family: times, helvetic, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 112px;
+    padding-left: 0;
+    padding-bottom: 0;
+    margin: 0;
+    padding-top: 28px;
+}
+
+#subtitulo-p {
+font-size: 40px;
+font-weight: normal;
+margin: 0;
+padding-left: 450px;
+}
+
+h2, h3, h4, h5, h6 {
+    color: inherit;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    width: 900px;
+    height: 50%;
+    padding-left: 16%;
+    font-size: 25px;
+}
+
+.img-banner {
+    padding-left: 16%;
+}
+
+
+.lote1 {
+    width: 1230px;
+}
+#click-here {
+    width: auto;
+    margin: 0 auto;
+}
+#img1 {
+    padding-left: 35%;
+    width: 380px;
+    padding-bottom: 30px;
+    
+}
+#img2 {
+    padding-left: 250px;
+    padding-right: 50px;
+    padding-bottom: 0;
+}
+#img3 {
+    padding-bottom: 0;
+}
+#img4 {
+    height: auto;
+    padding-bottom: 0;
+    padding-left: 30px;
+}
+#img5 {
+    padding-top: 20px;
+    padding-left: 500px;
+}
+#img6 {
+    padding-left: 300px;
+}
+#img7 {
+    padding-left: 240px;
+}
+
+#contenedor-moños {
+    padding-top: 0;
+}

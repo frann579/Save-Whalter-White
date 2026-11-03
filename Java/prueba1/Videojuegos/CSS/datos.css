@@ -1,0 +1,46 @@
+.inicio-de-sesion {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(143, 9, 9);
+    margin: auto;
+}
+#inicio-pass {
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    padding: 5px;
+    text-transform:uppercase;
+    color: white;
+    margin: 5px;
+}
+#inicio-mail {
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    padding: 5px;
+    text-transform: uppercase;
+    color: white;
+    margin: 5px;
+}
+#inicio-enviar {
+    width: 50%;
+    height: 80%;
+    background-color: rgb(175, 21, 16);
+    text-transform: uppercase;
+    color: white;
+    margin: 5px;
+}
+#ISmenu {
+    font-family: montserrat-black;
+    text-align: center;
+    font-size:larger;
+    color: black;
+    margin:auto
+}
+
+form {
+    font-family: montserrat-txt;
+    width: 200px;
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+}

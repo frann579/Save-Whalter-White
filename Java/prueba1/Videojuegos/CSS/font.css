@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "montserrat-black";
+    src: url(fonts/Montserrat-Black.ttf) format(truetype);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "montserrat-el";
+    src: url(fonts/Montserrat-Medium.ttf) format(truetype);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "montserrat-txt";
+    src: url(fonts/Montserrat-Regular.ttf) format(truetype);
+    font-weight: 400;
+}
+
+body {
+    background-image: url(../Juegos/Imagenes-juegos/tile.png);
+    color: white;
+
+}
+
+

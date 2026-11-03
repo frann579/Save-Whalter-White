@@ -1,0 +1,19 @@
+li {
+    font-family: montserrat-el;
+    font-size: 800;
+    font-weight: 600;
+    color: red;
+    font-style: italic;
+}
+
+.titulo-footer {
+    font-family: montserrat-black;
+    text-align: center;
+}
+
+h1 {
+    font-family: montserrat-black;
+    text-align: center;
+
+}
+
